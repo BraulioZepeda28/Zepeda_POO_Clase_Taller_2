@@ -1,0 +1,18 @@
+#BlueJ class context
+#Sun Sep 27 19:13:49 PDT 2026
+comment0.target=TareaVista
+comment1.target=TareaVista()
+comment2.params=indiceNumerico nombre descripcion completada
+comment2.target=void mostrarTarea(int, java.lang.String, java.lang.String, boolean)
+comment3.target=void limpiarConsola()
+comment4.target=void pausar()
+comment5.target=int mostrarMenu()
+comment6.params=mensaje
+comment6.target=java.lang.String solicitarTexto(java.lang.String)
+comment7.params=mensaje
+comment7.target=int solicitarNumero(java.lang.String)
+comment8.params=mensaje
+comment8.target=void mostrarMensaje(java.lang.String)
+comment9.params=indiceNumerico detalleTarea
+comment9.target=void mostrarTarea(int, java.lang.String)
+numComments=10

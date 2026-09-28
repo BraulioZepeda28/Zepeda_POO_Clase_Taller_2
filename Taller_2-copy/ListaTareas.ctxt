@@ -1,0 +1,14 @@
+#BlueJ class context
+#Sun Sep 27 19:54:36 PDT 2026
+comment0.target=ListaTareas
+comment1.target=ListaTareas()
+comment2.params=t
+comment2.target=void agregar(Tarea)
+comment3.params=indice
+comment3.target=void eliminar(int)
+comment4.params=indice
+comment4.target=Tarea obtener(int)
+comment5.target=int getTamano()
+comment6.params=indice
+comment6.target=void completar(int)
+numComments=7

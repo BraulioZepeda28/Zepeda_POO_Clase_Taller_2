@@ -1,0 +1,11 @@
+#BlueJ class context
+#Sun Sep 27 19:54:36 PDT 2026
+comment0.target=TareaControlador
+comment1.params=modelo vista
+comment1.target=TareaControlador(ListaTareas, TareaVista)
+comment2.target=void iniciar()
+comment3.target=void mostrarTareas()
+comment4.target=void agregarTarea()
+comment5.target=void eliminarTarea()
+comment6.target=void completarTarea()
+numComments=7
